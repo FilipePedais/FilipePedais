@@ -7,17 +7,6 @@
 
 ---
 
-## 📂 O que você encontra por aqui
-
-- Projetos em **Java**, com foco em conceitos de POO
-- Scripts e automações com **Python**
-- Exercícios de lógica e estrutura de dados
-- Atividades práticas desenvolvidas no **Google Colab**
-- Introdução ao desenvolvimento com **HTML**, **CSS** e **JavaScript**
-- Projetos com banco de dados e versionamento com **Git**
-
----
-
 ## 🧰 Tecnologias que utilizo
 
 - **Java**
