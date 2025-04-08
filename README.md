@@ -30,8 +30,7 @@ Se quiser acompanhar minha trajetória, trocar ideias ou deixar algum feedback:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/filipe-pedais-6706ab176)
 - 🖥️ [GitHub](https://github.com/FilipePedais)
-- 📧 [Filipepedais026@gmail.com](mailto:Filipepedais026@gmail.com) *(substitua pelo seu e-mail real)*
-
+- 📧 [Filipepedais026@gmail.com](mailto:Filipepedais026@gmail.com)
 ---
 
 Criado com dedicação e vontade de crescer 📘
