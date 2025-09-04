@@ -17,7 +17,7 @@
 
 ---
 
-##🧰 Tecnologias que utilizo
+## 🧰 Tecnologias que utilizo
 <p>- Java<br>
 - Python<br>
 - JavaScript<br>
