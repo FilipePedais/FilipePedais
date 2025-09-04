@@ -17,7 +17,7 @@
 
 ---
 
-<h1> 🧰 Tecnologias que utilizo</h1>
+##🧰 Tecnologias que utilizo
 <p>- Java<br>
 - Python<br>
 - JavaScript<br>
