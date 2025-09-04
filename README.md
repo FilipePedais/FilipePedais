@@ -17,6 +17,14 @@
 
 ---
 
+<h1> 🧰 Tecnologias que utilizo</h1>
+<p>- **Java**
+- **Python**
+- **JavaScript**, **HTML**, **CSS**
+- **MySQL**
+- **Git/GitHub**
+- IDEs: **VS Code**, **BlueJ**, **Google Colab**, entre outras</p>
+
 ---
 
 ## 🌱 Em constante evolução
