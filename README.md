@@ -16,15 +16,6 @@
 </div>
 
 ---
-## 🧰 Tecnologias que utilizo
-
-- **Java**
-- 
-- **Python**
-- **JavaScript**, **HTML**, **CSS**
-- **MySQL**
-- **Git/GitHub**
-- IDEs: **VS Code**, **BlueJ**, **Google Colab**, entre outras
 
 ---
 
