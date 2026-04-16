@@ -23,7 +23,6 @@
 - JavaScript<br>
 - HTML/CSS<br>
 - MySQL<br>
-- MySQL<br>
 - Git/GitHub
 - IDEs: **VS Code**, **BlueJ**, **Google Colab**, entre outras</p>
 
